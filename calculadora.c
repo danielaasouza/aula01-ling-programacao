@@ -11,7 +11,6 @@ int main() {
     printf("Digite o Segundo número: ");
     scanf("%f", &n2);
     
-    // Operações
     soma = n1 + n2;
     sub = n1 - n2;
     mul = n1 * n2;
